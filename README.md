@@ -1,133 +1,41 @@
-<!-- ============================================ -->
-<!-- 👋 Hey, welcome to my profile! -->
-<!-- ============================================ -->
+# Muhammad Rafi
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rafi" alt="Typing animation" />
-</h1>
+Full-stack web developer and IT educator based in Langkat, North Sumatra, Indonesia.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammad-rapi&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/muhammad-rapi?style=flat-square&label=Followers" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building%20Jersium-00D9FF?style=flat-square" alt="Status" />
-</p>
+I build web apps and point-of-sale systems for small businesses, and I teach programming fundamentals to beginners in Bahasa Indonesia.
 
----
+## What I'm working on
 
-## 🔥 GitHub Stats
+- **Jersium** - a jersey marketplace built with Next.js and Laravel.
+- **Belajar IT dari Nol** - a free, beginner-first IT course in Indonesian, covering how computers, the web, and Git work. [Course repo](https://github.com/muhammad-rapi/belajar-it-course)
+- **PINAS POS** - point-of-sale for small shops, with an Android app and QRIS payment page.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-rapi&theme=nord&margin-w=15&margin-h=15&no-bg=true" alt="Trophy" />
-</p>
+## Selected projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-rapi&show_icons=true&theme=nord&bg_color=0d1117&title_color=00D9FF&text_color=8b949e&icon_color=00D9FF&hide_border=true" alt="GitHub Stats" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-rapi&layout=compact&theme=nord&bg_color=0d1117&title_color=00D9FF&text_color=8b949e&hide_border=true" alt="Top Languages" height="180" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [belajar-it-course](https://github.com/muhammad-rapi/belajar-it-course) | Open IT course for absolute beginners | Markdown |
+| [pinas-pos-android](https://github.com/muhammad-rapi/pinas-pos-android) | POS Android app | Java |
+| [pinas-pos-qris](https://github.com/muhammad-rapi/pinas-pos-qris) | QRIS payment page for PINAS POS | HTML |
+| [mimosa-hyundai](https://github.com/muhammad-rapi/mimosa-hyundai) | Website for an authorized Hyundai dealer in Medan | HTML |
+| [ps-rental](https://github.com/muhammad-rapi/ps-rental) | PlayStation rental management | PHP |
+| [portfolio-new](https://github.com/muhammad-rapi/portfolio-new) | Personal portfolio with a CMS | Astro, Tailwind, TypeScript |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-rapi&theme=nord&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=8B949E&hide_border=true" alt="Streak Stats" />
-</p>
+## Tech stack
 
----
+**Backend:** PHP, Laravel, MySQL, REST APIs
+**Frontend:** TypeScript, React, Next.js, Tailwind CSS, Astro
+**Mobile:** Java (Android)
+**Tools:** Git, GitHub Actions, Postman, Linux
 
-## 💼 Current Project
+## Contact
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jersium%20Marketplace-Next.js%20%2B%20Laravel-FF6B6B?style=for-the-badge&logo=shopping-cart&logoColor=white" alt="Jersium Marketplace" />
-</p>
+- Email: [muhammadrafi62166@gmail.com](mailto:muhammadrafi62166@gmail.com)
+- LinkedIn: [muhammad-rafi-1053aa311](https://www.linkedin.com/in/muhammad-rafi-1053aa311/)
+- Portfolio: [muhammadrapi.vercel.app](https://muhammadrapi.vercel.app)
+- Instagram: [@m.raapiii](https://instagram.com/m.raapiii)
 
-> 🛒 A full-stack marketplace platform. Currently under active development.
-
-**Tech:** `Next.js` `React` `Laravel` `MySQL` `TypeScript` `Tailwind CSS`
-
----
-
-## 🛠️ Tech Stack
-
-<details>
-  <summary><b>🔙 Backend</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="48" height="48" title="Laravel" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48" height="48" title="PHP" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48" height="48" title="MySQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48" title="Postman" />
-  </p>
-</details>
-
-<details>
-  <summary><b>⚛️ Frontend</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="48" height="48" title="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48" title="Next.js" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" title="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="48" height="48" title="Tailwind CSS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" title="Bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript" />
-  </p>
-</details>
-
-<details>
-  <summary><b>🔧 Tools</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" title="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" title="VS Code" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" title="Linux" />
-  </p>
-</details>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-rapi&theme=nord&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:muhammadrafi62166@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-rafi-1053aa311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/m.raapiii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://muhammadrapi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <sub>
-    <i>Built with ❤️ from Langkat, Indonesia</i>
-  </sub>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-rapi&show_icons=true&hide_border=true&theme=default" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-rapi&layout=compact&hide_border=true" height="150" alt="Top languages" />
 </p>
